@@ -1,0 +1,2 @@
+Sadece girilen giriþe göre deðer göndermektedir.Yani sadece test dizisinde bulunan deðerlere göre deðer verir.
+Final ödevine kadar geliþtirilecektir

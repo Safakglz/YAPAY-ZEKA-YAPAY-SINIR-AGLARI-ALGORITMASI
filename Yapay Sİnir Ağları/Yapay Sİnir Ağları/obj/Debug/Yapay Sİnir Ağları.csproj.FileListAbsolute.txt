@@ -1,0 +1,20 @@
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\bin\Debug\Yapay Sİnir Ağları.exe.config
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\bin\Debug\Yapay Sİnir Ağları.exe
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\bin\Debug\Yapay Sİnir Ağları.pdb
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay_Sİnir_Ağları.Form1.resources
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay_Sİnir_Ağları.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.exe
+C:\Users\ASUS\Desktop\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\bin\Debug\Yapay Sİnir Ağları.exe.config
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\bin\Debug\Yapay Sİnir Ağları.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\bin\Debug\Yapay Sİnir Ağları.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay_Sİnir_Ağları.Form1.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay_Sİnir_Ağları.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\YSA GÖNDERİLEN\Yapay Sİnir Ağları\Yapay Sİnir Ağları\obj\Debug\Yapay Sİnir Ağları.pdb
